@@ -31,7 +31,7 @@ import com.ncfgroup.darwin.opt.RelTypes;
 import com.ncfgroup.darwin.util.Timer;
 
 public class MaxLengthCal {
-	// test pull	
+	// test pull back	
 	final int TEST_THRESHOLD = 10000;
 	final static int NUMBER_OF_NODE = 3318054;
 
